@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function(event) {
+window.addEventListener("load", function(event) {
   
   var entries = window.PluginManager.getPluginList().GallerySlider;
   
